@@ -45,7 +45,7 @@ const App = () => {
             level={5}
             style={{ color: "white", textAlign: "center" }}
           >
-            Cryptoverse <br />
+            TheCryptoApp <br />
             All rights reserved
           </Typography.Title>
           <Space>
