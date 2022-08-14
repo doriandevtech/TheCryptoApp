@@ -1,66 +1,60 @@
-# Getting Started with Create React App
+# Welcome to 💰 TheCryptoApp 💰 project !
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## How can you use this app :
 
-### `npm start`
+Here is the URL link to the app : https://thecryptocurrencyapp.netlify.com
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## What is the outcome of this project ?
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The goal of this sproject is to let you search for :
 
-### `npm test`
+- Cryptocurrencies health 🩺
+- News regarding cryptos 📰
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+Here is a screenshot of the actual app's homepage :
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<img width="1438" alt="Capture d’écran 2022-08-14 à 11 19 45 AM" src="https://user-images.githubusercontent.com/61510923/184532685-2d580073-fa06-4379-a481-cbe0f6612ea7.png">
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+A glimps of every crypto is shown :
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<img width="268" alt="Capture d’écran 2022-08-14 à 11 20 03 AM" src="https://user-images.githubusercontent.com/61510923/184532743-1c9faaf4-d938-4ca2-ac70-f86b35927ebb.png">
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+You can see global crypto news :
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<img width="1435" alt="Capture d’écran 2022-08-14 à 11 20 23 AM" src="https://user-images.githubusercontent.com/61510923/184532701-0767dbfe-1191-42b2-b441-9bf995b012cd.png">
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+And just focus on one crypto with the search bar as shown below :
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<img width="1429" alt="Capture d’écran 2022-08-14 à 12 26 14 PM" src="https://user-images.githubusercontent.com/61510923/184532736-9324b451-a79a-4d73-b8b7-02fc05902376.png">
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Which stack had been used ?
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+The following stack is used in this project :
 
-### Code Splitting
+For UI development: 🔨
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- React: 17.0.2 ⚛️
 
-### Analyzing the Bundle Size
+For API calls: 📞🗺
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- Axios: 0.21.1
 
-### Making a Progressive Web App
+APIs used:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- Coinranking API - search for cryptos main numbers 🩺
+- News Bing Search API - get cryptos news from all around the world 🌍
 
-### Advanced Configuration
+For design: 👨🏻‍🎨
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- ant-design/icons: 4.6.4
 
-### Deployment
+## What is the vision of the 🔍 Google-Maps clone 🗺 project ?
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+This project has gave me the opportunity to test my React skills as well as my ability to fetch data from multiple APIs. The usage of React-Hooks was made to make the application more modern and that was a goal that I manage to reach. I also used a new tool to style the app, Antdesign. It is easy to get used to and put your hans on.
 
-### `npm run build` fails to minify
+## At what stage is the project right now ?
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+The app is finally done 🥳. You can now search for cryptos informations and news from all around the world 🌍
