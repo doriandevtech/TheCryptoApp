@@ -14,7 +14,8 @@ The goal of this sproject is to let you search for :
 
 Here is a screenshot of the actual app's homepage :
 
-<img width="1438" alt="Capture d’écran 2022-08-14 à 11 19 45 AM" src="https://user-images.githubusercontent.com/61510923/184532685-2d580073-fa06-4379-a481-cbe0f6612ea7.png">
+![Capture d’écran 2022-08-16 à 12 00 18 PM](https://user-images.githubusercontent.com/61510923/184852877-1190222b-8c2a-48e6-8bf9-5eaf56d90559.png)
+
 
 A glimps of every crypto is shown :
 
@@ -23,11 +24,12 @@ A glimps of every crypto is shown :
 
 You can see global crypto news :
 
-<img width="1435" alt="Capture d’écran 2022-08-14 à 11 20 23 AM" src="https://user-images.githubusercontent.com/61510923/184532701-0767dbfe-1191-42b2-b441-9bf995b012cd.png">
+![Capture d’écran 2022-08-16 à 12 01 57 PM](https://user-images.githubusercontent.com/61510923/184853232-f6cd2dfd-befd-4230-b585-f6d91dcc7830.png)
+
 
 And just focus on one crypto with the search bar as shown below :
 
-<img width="1429" alt="Capture d’écran 2022-08-14 à 12 26 14 PM" src="https://user-images.githubusercontent.com/61510923/184532736-9324b451-a79a-4d73-b8b7-02fc05902376.png">
+![Capture d’écran 2022-08-16 à 12 02 21 PM](https://user-images.githubusercontent.com/61510923/184853257-82a2ba76-0dce-47f9-880b-60cce2e73930.png)
 
 
 ## Which stack had been used ?
