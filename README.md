@@ -1,6 +1,6 @@
 # Welcome to 💰 TheCryptoApp 💰 project !
 
-## How can you use this app :
+## How can you use this app ?
 
 Here is the URL link to the app : https://thecryptocurrencyapp.netlify.com
 
@@ -12,22 +12,22 @@ The goal of this project is to let you search for :
 - News regarding cryptos 📰
 
 
-Here is a screenshot of the actual app's homepage :
+### Here is a screenshot of the actual app's homepage :
 
 ![Capture d’écran 2022-08-16 à 12 00 18 PM](https://user-images.githubusercontent.com/61510923/184852877-1190222b-8c2a-48e6-8bf9-5eaf56d90559.png)
 
 
-A glimps of every crypto is shown :
+### A glimps of every crypto is shown :
 
 <img width="268" alt="Capture d’écran 2022-08-14 à 11 20 03 AM" src="https://user-images.githubusercontent.com/61510923/184532743-1c9faaf4-d938-4ca2-ac70-f86b35927ebb.png">
 
 
-You can see global crypto news :
+### You can see global crypto news :
 
 ![Capture d’écran 2022-08-16 à 12 01 57 PM](https://user-images.githubusercontent.com/61510923/184853232-f6cd2dfd-befd-4230-b585-f6d91dcc7830.png)
 
 
-And just focus on one crypto with the search bar as shown below :
+### And just focus on one crypto with the search bar as shown below :
 
 ![Capture d’écran 2022-08-16 à 12 02 21 PM](https://user-images.githubusercontent.com/61510923/184853257-82a2ba76-0dce-47f9-880b-60cce2e73930.png)
 
