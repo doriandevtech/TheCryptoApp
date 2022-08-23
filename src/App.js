@@ -10,6 +10,7 @@ import {
   News,
 } from "./components";
 import "./App.css";
+import CryptoDetails from "./components/CryptoDetails";
 
 const App = () => {
   return (
@@ -24,11 +25,14 @@ const App = () => {
               <Route exact path="/">
                 <Homepage />
               </Route>
-              <Route exact path="/exchanges">
+              {/* <Route exact path="/exchanges">
                 <Exchanges />
-              </Route>
+              </Route> */}
               <Route exact path="/cryptocurrencies">
                 <Cryptocurrencies />
+              </Route>
+              <Route exact path="/coin/:uuid">
+                <CryptoDetails />
               </Route>
               <Route exact path="/news">
                 <News />
