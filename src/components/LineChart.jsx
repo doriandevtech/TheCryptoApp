@@ -74,7 +74,7 @@ const LineChart = ({ coinHistory, currentPrice, coinName }) => {
             Change: {coinHistory?.data?.change}%
           </AntTitle>
           <AntTitle level={5} className="current-price">
-            Current {coinName} Price: $ {currentPrice}
+            Current {coinName} Price: USD {currentPrice}
           </AntTitle>
         </Col>
       </Row>
