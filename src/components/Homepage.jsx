@@ -32,12 +32,14 @@ const Homepage = () => {
         <Col span={12}>
           <Statistic
             title="Total Market Cap"
+            prefix="USD"
             value={millify(globalStats.totalMarketCap)}
           />
         </Col>
         <Col span={12}>
           <Statistic
             title="Total 24h Volume"
+            prefix="USD"
             value={millify(globalStats.total24hVolume)}
           />
         </Col>
